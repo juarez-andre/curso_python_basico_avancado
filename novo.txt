@@ -1,0 +1,3 @@
+Escrever dasdos em arquivos � muito f�cil.
+Podemos colocar quantas linhas quisermos.
+Esta � a �ltima linha.
